@@ -1,4 +1,4 @@
-class styx {
+```class styx {
 
 constructor(options) {
 
@@ -14,5 +14,6 @@ this.discordId = "313748727984685056"
   
 }
 
-module.exports = styx;
+module.exports = styx;```
+
 
